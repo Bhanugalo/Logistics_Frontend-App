@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-mdpi_ic_launcher1111.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-mdpi/ic_launcher1111.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-hdpi_ic_launcherqq.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-hdpi/ic_launcherqq.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-hdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xxxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-hdpi_ic_launcher1111.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-hdpi/ic_launcher1111.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher1111.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xxxhdpi/ic_launcher1111.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-hdpi_ic_launcher111.jpg.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-hdpi/ic_launcher111.jpg"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xhdpi_ic_launcher1111.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xhdpi/ic_launcher1111.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-hdpi_ic_launcher11.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-hdpi/ic_launcher11.png"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/drawable-v21_launch_background.xml.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.gautamsolar.logistic.app-merged_res-43:/mipmap-xxhdpi_ic_launcher1111.png.flat",
+        "source": "com.gautamsolar.logistic.app-main-36:/mipmap-xxhdpi/ic_launcher1111.png"
+    }
+]

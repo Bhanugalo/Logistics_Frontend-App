@@ -1,0 +1,13 @@
+io.github.zeshuaro.google_api_headers-jetified-annotation-experimental-1.1.0-0 C:\Users\dell\.gradle\caches\transforms-3\09db32a73384ac2dccccf916d7dc0262\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.zeshuaro.google_api_headers-core-1.6.0-1 C:\Users\dell\.gradle\caches\transforms-3\168e459aae59caaab0d2c703cf9d67ab\transformed\core-1.6.0\res
+io.github.zeshuaro.google_api_headers-jetified-window-1.0.0-beta04-2 C:\Users\dell\.gradle\caches\transforms-3\29fe38a5fd6c3bf46cd8e59c2b63489e\transformed\jetified-window-1.0.0-beta04\res
+io.github.zeshuaro.google_api_headers-jetified-window-java-1.0.0-beta04-3 C:\Users\dell\.gradle\caches\transforms-3\978180320ed1d29d66a82edc9d24751e\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.zeshuaro.google_api_headers-main-4 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\google_api_headers-2.0.3\android\src\main\res
+io.github.zeshuaro.google_api_headers-release-5 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\google_api_headers-2.0.3\android\src\release\res
+io.github.zeshuaro.google_api_headers-pngs-6 C:\Users\dell\Downloads\Logistic-Frontend\Logistic-Frontend\build\google_api_headers\generated\res\pngs\release
+io.github.zeshuaro.google_api_headers-resValues-7 C:\Users\dell\Downloads\Logistic-Frontend\Logistic-Frontend\build\google_api_headers\generated\res\resValues\release
+io.github.zeshuaro.google_api_headers-rs-8 C:\Users\dell\Downloads\Logistic-Frontend\Logistic-Frontend\build\google_api_headers\generated\res\rs\release
+io.github.zeshuaro.google_api_headers-mergeReleaseResources-9 C:\Users\dell\Downloads\Logistic-Frontend\Logistic-Frontend\build\google_api_headers\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.zeshuaro.google_api_headers-mergeReleaseResources-10 C:\Users\dell\Downloads\Logistic-Frontend\Logistic-Frontend\build\google_api_headers\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.zeshuaro.google_api_headers-merged_res-11 C:\Users\dell\Downloads\Logistic-Frontend\Logistic-Frontend\build\google_api_headers\intermediates\merged_res\release
+io.github.zeshuaro.google_api_headers-packaged_res-12 C:\Users\dell\Downloads\Logistic-Frontend\Logistic-Frontend\build\package_info_plus\intermediates\packaged_res\release

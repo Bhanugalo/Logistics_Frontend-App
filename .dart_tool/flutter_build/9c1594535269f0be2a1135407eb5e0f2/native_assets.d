@@ -1,0 +1,1 @@
+ C:\\Users\\dell\\Downloads\\Logistic-Frontend\\Logistic-Frontend\\.dart_tool\\flutter_build\\9c1594535269f0be2a1135407eb5e0f2\\native_assets.yaml: 
